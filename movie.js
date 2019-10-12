@@ -47,19 +47,11 @@ for (var i = 0; i < movie.length; i++) {
         `);
 
     }
-   $('.btn').click(function() {
 
-   	var clicks = 0;
-    
-    clicks += 1;
-    document.getElementById("clicks").innerHTML = clicks;
-       
    
-
-  });
-    
-  // var clicks = 0;
-  // function onClick() {
-  //   clicks += 1;
-  //   document.getElementById("clicks").innerHTML = clicks;
-  //       })
+    //likebutton
+    $('.btn').click(function() {
+    $('#clicks').html(function(m, val) { return val*1+1 });
+});
+  
+});
