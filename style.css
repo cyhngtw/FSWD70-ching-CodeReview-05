@@ -1,0 +1,68 @@
+h1, h3{
+
+	text-align: center;
+	color: white;
+}
+
+.header{
+  background-color: black;
+  padding: 0;
+  margin: 0;
+}
+
+.mvcontainer {
+  background-color:  #151624;
+  
+}
+ .movieinfo{
+  background-color: black;
+  
+}
+
+/* .row{
+	background-color: #151624;
+} */
+
+
+/* .container{
+    background-color: #151624;
+    border: 1px solid green;
+} */
+
+.navcontainer {
+    background-color:#373535; 
+
+}
+
+.moviedetail{
+  position: relative;
+}
+
+.like{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.nav{
+	color: white;
+	font-weight: bold;
+}
+.nav-link {
+  color: white;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: lightgray;
+}
+
+.allmovies{
+   justify-content: space-between;
+
+}
+.rounded-circle {
+  height: 40px;
+  width: 40px;
+  text-align: center;
+
+}

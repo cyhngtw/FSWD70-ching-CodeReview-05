@@ -1,0 +1,34 @@
+var movie = 
+   [{
+       "name": "Skyfall",
+       "year": "2016",
+       "content":"Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack.",
+       "image": "skyfall.jpg"
+   }, {
+	   "name": "No Time to Die",
+       "year": "2020",
+       "content":"James Bond has left active service when his friend Felix Leiter enlists his help in the search for a missing scientist. ",
+       "image": "notimetodie.png"
+   }, {
+	   "name": "Quantum",
+       "year": "2011",
+       "content":"James Bond tries to stop a mysterious organization from eliminating a country's most valuable resource.",
+       "image": "Quantum.jpg"
+   },{
+	   "name": "Dreamhouse",
+       "year": "2011",
+       "content":"Soon after moving into their seemingly idyllic new home, a family learns of a brutal crime.",
+       "image": "dreamhouse.jpg"
+   },{
+	   "name": "Casino Royal",
+       "year": "2006",
+       "content":"He must defeat a private banker to terrorists in a high stakes game of poker at Casino Royale.",
+       "image": "Casino.jpg"
+   },{
+	   "name": "Spectre",
+       "year": "2008",
+       "content":"a mysterious terrorist organization called Spectre, and learns of its involvement.",
+       "image": "spectre.jpg"
+   }
+
+]
