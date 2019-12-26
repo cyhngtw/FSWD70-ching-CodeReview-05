@@ -18,10 +18,10 @@ var movie =
        "image": "img/Quantum.jpg",
        "like":" "
    },{
-	   "name": "Spectre",
-       "year": "2008",
-       "content":"a mysterious terrorist organization called Spectre, and learns of its involvement.",
-       "image": "img/spectre.jpg",
+	   "name": "Casino Royal",
+       "year": "2006",
+       "content":"He must defeat a private banker to terrorists in a high stakes game of poker at Casino Royale.",
+       "image": "img/casino.jpg",
        "like":" "
    },{
 	   "name": "Spectre",
@@ -30,10 +30,10 @@ var movie =
        "image": "img/spectre.jpg",
        "like":" "
    },   {
-     "name": "Spectre",
-       "year": "2008",
-       "content":"a mysterious terrorist organization called Spectre, and learns of its involvement.",
-       "image": "img/spectre.jpg",
+     "name": "Casino Royal",
+       "year": "2006",
+       "content":"He must defeat a private banker to terrorists in a high stakes game of poker at Casino Royale.",
+       "image": "img/casino.jpg",
        "like":" "
    }
 
