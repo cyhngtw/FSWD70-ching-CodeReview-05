@@ -21,7 +21,7 @@ var movie =
 	   "name": "Casino Royal",
        "year": "2006",
        "content":"He must defeat a private banker to terrorists in a high stakes game of poker at Casino Royale.",
-       "image": "img/Casino.jpg",
+       "image": "img/casino.jpg",
        "like":" "
    },{
 	   "name": "Spectre",
@@ -33,7 +33,7 @@ var movie =
      "name": "Casino Royal",
        "year": "2006",
        "content":"He must defeat a private banker to terrorists in a high stakes game of poker at Casino Royale.",
-       "image": "img/Casino.jpg",
+       "image": "img/casino.jpg",
        "like":" "
    }
 
